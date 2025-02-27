@@ -1,6 +1,6 @@
-# Dracula for [KDiff3](http://kdiff3.sourceforge.net/)
+# Dracula for [KDiff3](https://github.com/KDE/kdiff3)
 
-> A dark theme for [KDiff3](http://kdiff3.sourceforge.net/).
+> A dark theme for [KDiff3](https://github.com/KDE/kdiff3).
 
 ![Screenshot](./screenshot.png)
 
