@@ -8,7 +8,7 @@ A dark theme for [KDiff3](https://invent.kde.org/sdk/kdiff3) [(Downloads)](https
 
 ### KDiff3 version 1.x and later
 
-Append contents of theme file [`kdiff3rc`](blob/master/kdiff3rc) into configuration file at the end of the `[KDiff3 Options]` section, and save.
+Append contents of theme file [`kdiff3rc`](kdiff3rc) into configuration file at the end of the `[KDiff3 Options]` section, and save.
 
 | OS      | Configuration file path          |
 | ------- | -------------------------------- |
